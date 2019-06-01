@@ -1,0 +1,2 @@
+# python_core3_exercises
+python核心编程第三版书后面的习题
